@@ -1,10 +1,10 @@
 <h1 align="center">✨ Hi, I'm Keymal ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Enthusiast;Laravel+Learner;Web+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Frontend+Developer;Laravel+Learner;AI+Enthusiast;Web+Developer&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">Backend Developer | Frontend Developer | Laravel Learner | AI Enthusiast</h3>
+<h3 align="center">Backend Developer | Frontend Developer | Laravel Learner | AI Enthusiast | Web Developer</h3>
 
 <p align="center">
   Passionate about coding, backend & frontend development, and exploring AI technology 🚀
