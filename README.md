@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Keymal</h1>
+<h3 align="center">Backend Developer | Frontend Developer |Laravel Learner| AI Enthusiast</h3>
 
-<!--
-**KeymalW/KeymalW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Passionate about coding, backend development, and exploring AI technology
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Sedang belajar Laravel & Backend Development
+- 💻 Fokus pada Web Development
+- ⚡ Suka eksplorasi coding dan teknologi
+- 🤖 Tertarik dengan AI dan automation
+- 📍 Indonesia
+
+---
+
+## 🛠 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-blue)
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KeymalW&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeymalW&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/KeymalW
