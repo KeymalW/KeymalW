@@ -34,3 +34,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeymalW&show_icons=true&theme=tokyonight" />
 </p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeymalW&theme=tokyo-night&hide_border=true" />
+</p>
