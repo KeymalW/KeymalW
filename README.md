@@ -36,14 +36,14 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeymalW&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeymalW&layout=compact&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeymalW&show_icons=true&theme=tokyonight" alt="KeymalW's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeymalW&layout=compact&theme=tokyonight&show_icons=true" alt="KeymalW's Top Languages" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeymalW&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeymalW&theme=tokyo-night&hide_border=true" alt="KeymalW's Contribution Activity" />
 </p>
 
 ---
