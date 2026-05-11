@@ -36,9 +36,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeymalW&amp;show_icons=true&amp;theme=tokyonight" alt="KeymalW's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeymalW&amp;layout=compact&amp;theme=tokyonight&amp;show_icons=true" alt="KeymalW's Top Languages" />
+  <img src="https://ghrs.vercel.app/api?username=KeymalW&show_icons=true&theme=tokyonight" alt="KeymalW's GitHub Stats" />
+  <img src="https://ghrs.vercel.app/api/top-langs/?username=KeymalW&layout=compact&theme=tokyonight&show_icons=true" alt="KeymalW's Top Languages" />
 </p>
+
 
 ## 📈 Contribution Activity
 
